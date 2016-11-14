@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="michaeldaigle.com.laconiabikeweek"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="michaeldaigle.com.laconiabikeweek.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.List">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Saturday_June11">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Saturday_June_11">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Sunday_June12">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Sunday_June_12">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Monday_June13">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Monday_June_13">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Tuesday_June14">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Tuesday_June_14">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Wednesday_June15">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Wednesday_June_15">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Thursday_June16">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Thursday_June_16">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Friday_June17">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Friday_June_17">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Saturday_June18">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Saturday_June_18">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Sunday_June19">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.Sunday_June_19">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.LFSundayJune12">
+        </activity>
+        <activity android:name="michaeldaigle.com.laconiabikeweek.LaconiaFest">
+        </activity>
+    </application>
+
+</manifest>

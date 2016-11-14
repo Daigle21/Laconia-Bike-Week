@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bike Week Laconia NH</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_items">No items to display!</string>
+    <string name="list">List Activity</string>
+
+    <string-array name="DaysOfTheWeek">
+        <item>Saturday, June 11</item>
+        <item>Sunday, June 12</item>
+        <item>Monday, June 13</item>
+        <item>Tuesday, June 14</item>
+        <item>Wednesday, June 15</item>
+        <item>Thursday, June 16</item>
+        <item>Friday, June 17</item>
+        <item>Saturday, June 18</item>
+        <item>Sunday, June 19</item>
+    </string-array>
+</resources>

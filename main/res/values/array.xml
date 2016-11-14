@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="days_of_the_week">
+        <item >Saturday_June11</item>
+        <item >Sunday_June12</item>
+        <item >Monday_June13</item>
+        <item >Tuesday_June14</item>
+        <item >Wednesday_June15</item>
+        <item >Thursday_June16</item>
+        <item >Friday_June17</item>
+        <item >Saturday_June18</item>
+        <item >Sunday_June19</item>
+    </string-array>
+
+    <string-array name="events">
+        <item ><u>Saturday June 11</u></item>
+        <item >8am Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >9am - 5pm Winnipesaukee HOG Hospitality Tent @ Laconia HD</item>
+        <item >9:30am - 8pm Rally in the Valley - Rolling Rally</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >11am - 4pm 10th Annual Peter Makris Memorial Ride</item>
+        <item >11am - 11pm Fundraiser at Bentleys Saloon</item>
+        <item >12pm - 6pm Big Air Jumps + Stunts Show at Makris Lobster + Steak House</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >12pm - 5pm M/S Mount Washington Dockside</item>
+        <item >1pm - 5pm Fire + Iron Laconia Station 138 Kilts + Colors Ride, Leaves T Bones at 1pm.</item>
+        <item >8am - 5pm FIM North American Vintage Championships</item>
+    </string-array>
+
+    <string-array name="sunday_events">
+        <item ><u>Sunday June 12</u></item>
+        <item >8am Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >8am - 5pm FIM North American Vintage Championships</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 5pm Winnipesaukee HOG Chapter #2529 hosts Seacoast + Bentleys Ride</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 5:pm American Police Motorcycle Museum</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >10:30am - 5pm AMA Gypsy Tour to NHMS for USCRA Vintage Races</item>
+        <item >12pm - 10pm Big Air Jumps + Stunts Show at Makris Lobster + Steak House</item>
+        <item >12pm Laconia Fest Motorcycle Music Festival</item>
+        <item >12pm - 11:00pm Music at the Marketplace</item>
+        <item >12pm Paradise Beach Club Special Events</item>
+        <item >12pm Tower Hill Tavern Special Events</item>
+        <item >12pm - 5pm M/S Mount Washington Dockside</item>
+        <item >3pm - 5pm Antique Bike Rally at Makris Lobster and Steak House</item>
+
+    </string-array>
+
+    <string-array name="monday_events">
+    <item ><u>Monday June 13</u></item>
+    <item >8am Rally Headquarters is Open</item>
+    <item >8am - 6pm Cornerstone Outreach Ministries</item>
+    <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+    <item >9am - 10pm Free Coffee House</item>
+    <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+    <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+    <item >12pm - 11pm Music at the Marketplace</item>
+    <item >8am - 2pm Mae-West Memorial Ride, leaves RHQs @ 10:30am</item>
+    <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+    <item >12:00pm American Police Motorcycle Museum 2016 Tribute</item>
+    <item >12pm LF Presents Fuel + Saving Abel</item>
+    <item >4:30pm - 7pm Cruise on M/S Mt. Washington</item>
+    <item >6:30p Book signing + Author Talk</item>
+    <item >Team Trivia @ Patricks Pub in Gilford</item>
+    <item >Motorcycle Demos Headquarters @ NHMS</item>
+</string-array>
+
+    <string-array name="tuesday_events">
+        <item ><u>Tuesday June 14</u></item>
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+        <item >Motorcycle Demos Headquarters @ NHMS</item>
+        <item >Veteran’s Appreciation Day at American Police Museum</item>
+        <item >10:30am - 5pm Gypsy Tour – 70+ mile Scenic Ride</item>
+        <item >7pm Best of the Bikers Pool Tournament</item>
+        <item >7pm Bike Show Sponsored by Haymond Law Firm</item>
+        <item >7pm Photo Show at Pitman’s Freight Room</item>
+        <item >9am - 11pm Gypsy Tour to Bentley’s Saloon in Maine</item>
+    </string-array>
+
+    <string-array name="wednesday_events">
+        <item ><u>Wednesday June 15</u></item>
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >9am - 5pm Ladies Ride, led by Winnipesaukee H.O.G. Chapter #2529 Ladies of Harley</item>
+        <item >9:30am - 5:30pm NHMRO Benefit Ride from Coast to the Mtns</item>
+        <item >10am - 4pm Ride-In Bike Show at Broken Spoke Saloon</item>
+        <item >10am - 4pm Slow Race Competition at American Police Motorcycle Museum</item>
+        <item >10am - 4pm NA Meetings</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 5pm American Police Motorcycle Museum</item>
+        <item >10:30am - 5pm Covered Bridge Gypsy Tour</item>
+        <item >12pm Laconia Fest Motorcycle Music Festival Presents Music Icon STEVEN TYLER!</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >12pm - 5pm AMA Sanctioned Shawn P. Farnsworth Memorial PRO Hill Climb</item>
+        <item >Motorcycle Demos Headquarters @ NHMS</item>
+        <item >3pm - 6pm 93rd Rally Anniversary Celebration</item>
+        <item >3pm - 6pm Bikini Contest at the Naswa Resort</item>
+        <item >7pm Best of the Bikers Pool Tournament</item>
+        <item >7pm Photo Show at Pitman’s Freight Room</item>
+        <item >7pm Book Signing + Author Talk: Laconia: Chasing the Road</item>
+        <item >10pm - 11pm Fireworks Show</item>
+    </string-array>
+
+    <string-array name="thursday_events">
+        <item ><u>Thursday June 16</u></item>
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+        <item >Motorcycle Demos Headquarters @ NHMS</item>
+        <item >7pm Best of the Bikers Pool Tournament</item>
+        <item >7pm Photo Show at Pitman’s Freight Room</item>
+        <item >10am - 4pm Slow Race Competition at American Police Motorcycle Museum</item>
+        <item >10am - 4pm NA Meetings</item>
+        <item >Guided Tour: Leaves from Rally Headquarters to Makris Lobster + Steak House</item>
+        <item >7am - 5pm Guided Tour to the Ride to the Sky!</item>
+        <item >9:30am - 5pm Ride-In Bike Show at Bentley’s Saloon in Maine</item>
+        <item >10am - 6pm Mt. Washington Auto Road “Ride to the Sky”</item>
+        <item >10am - 4pm Custom Bike Show</item>
+        <item >10am - 4pm Ladies Day at the American Police Motorcycle Museum</item>
+        <item >12pm Laconia Fest Motorcycle Music Festival Presents Bret Michaels!</item>
+        <item >1:30pm - 2:30pm Slow Race at the Veteran’s Square Train Station.</item>
+        <item >6pm 23rd Annual POW/MIA Freedom Ride</item>
+        <item >7pm - 9pm A Tribute to and for Motorcyclists</item>
+
+    </string-array>
+
+    <string-array name="friday_events">
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >8am - 8pm Chrome Hill at the Naswa Resort</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >9am - 7pm Special Events at Heritage Harley-Davidson</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+        <item >Motorcycle Demos Headquarters @ NHMS</item>
+        <item >7pm Best of the Bikers Pool Tournament</item>
+        <item >7pm Photo Show at Pitman’s Freight Room</item>
+        <item >10am - 4pm Slow Race Competition at American Police Motorcycle Museum</item>
+        <item >9:30am - 2pm 12th Annual City of Laconia Bike Show</item>
+        <item >8am - 5pm 93rd Anniversary of the Loudon Classic</item>
+        <item >8am - 1pm Swap Meet at Opechee Park during Bike Show!</item>
+        <item >9:30am - 8pm Rally in the Valley – Rolling Rally</item>
+        <item >11am - 3pm Belknap County Nursing Home Welcomes Motorcycle Week!</item>
+        <item >12pm Laconia Fest Motorcycle Music Festival Presents Ted Nugent!</item>
+        <item >12pm - 10pm Big Air Jumps + Stunts Show @ Makris Lobster + Steak House</item>
+        <item >5pm Wolfeboro’s Moonlight Madness Motorcycle Ride</item>
+        <item >8pm Hot Legs Contest</item>
+    </string-array>
+
+    <string-array name="saturday_events">
+        <item ><u>Saturday June 18</u></item>
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >9am - 10pm Free Coffee House</item>
+        <item >10am - 2am Laconia Roadhouse: Big Entertainment Tent</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >12pm - 11pm Music at the Marketplace</item>
+        <item >9am - 5pm H.O.G. Pin Stop @ Rally Demo @ NH Motor Speedway</item>
+        <item >Motorcycle Demos Headquarters @ NHMS</item>
+        <item >8am - 5pm 93rd Anniversary of the Loudon Classic – Modified Motard</item>
+        <item >9:30am - 8pm Rally in the Valley – Rolling Rally</item>
+        <item >11am 6th Annual “The Jesus Ride”</item>
+        <item >12pm Laconia Fest Motorcycle Music Festival Presents Sevendust!</item>
+        <item >12pm - 10pm Big Air Jumps + Stunts Show @ Makris Lobster + Steak House</item>
+        <item >1pm - 5pm Annual Miss Bentley’s Pin-Up Contest</item>
+    </string-array>
+
+    <string-array name="lastday_events">
+        <item ><u>Sunday June 19</u></item>
+        <item >8am - 9pm Rally Headquarters is Open</item>
+        <item >8am - 6pm Cornerstone Outreach Ministries</item>
+        <item >10am - 10pm Weirs Shuttle Train</item>
+        <item >10am - 5pm American Police Motorcycle Museum</item>
+        <item >10am - 4pm Slow Race Competition at American Police Motorcycle Museum</item>
+        <item >8am - 5pm US Legends: International Racing</item>
+        <item >8am - 10am Rockin’ Biker Service</item>
+        <item >12pm - 5pm Laconia Fest Motorcycle Music Festival Free Admission!</item>
+        <item >12pm - 6pm Big Air Jumps + Stunts Show at Makris Lobster + Steak House</item>
+    </string-array>
+
+    <string-array name="laconiafest">
+        <item >Saturday_June_11</item>
+        <item >Sunday_June_12</item>
+        <item >Monday_June_13</item>
+        <item >Tuesday_June_14</item>
+        <item >Wednesday_June_15</item>
+        <item >Thursday_June_16</item>
+        <item >Friday_June_17</item>
+        <item >Saturday_June_18</item>
+        <item >Sunday_June_19</item>
+    </string-array>
+
+    <string-array name="concert_schedule">
+        <item ><u>Saturday June 11</u></item>
+        <item >Test</item>
+        <item >Test</item>
+        <item >Test</item>
+        <item >Test</item>
+        <item >Test</item>
+    </string-array>
+
+</resources>
